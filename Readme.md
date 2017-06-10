@@ -2,7 +2,7 @@
 
 投影片網址： [https://goo.gl/JVLhRh](https://goo.gl/JVLhRh)
 
-相關 PyCon TW 講題：
+相關 PyCon TW 2017 講題：
 
 * [[自py系列2] 投資策略驗證系統 - Kilik](https://tw.pycon.org/2017/en-us/events/talk/322153690393739347/)
 * [Numpy for dummy - Tim](https://tw.pycon.org/2017/en-us/events/talk/348362827431411846/)
