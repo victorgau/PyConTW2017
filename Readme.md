@@ -26,7 +26,7 @@
 * [Practical Data Transformation and Analysis with Pandas - Zong-han, Xie ](https://tw.pycon.org/2017/en-us/events/talk/347901318163071105/)
 * [遺傳演算法最佳化高頻交易策略 - 林萍珍 教授](https://tw.pycon.org/2017/en-us/events/talk/345417142851600500/)
 * [OpenCLGA - Run Your GA on Top of PyOpenCL - John](https://tw.pycon.org/2017/en-us/events/talk/322244195077062740/)
-* [用Python成為網路投資王](https://tw.pycon.org/2017/en-us/events/talk/320211463073431632/)
+* [用Python成為網路投資王 - 潘穎達、陳柏瑋](https://tw.pycon.org/2017/en-us/events/talk/320211463073431632/)
 
 相關資料：
 
