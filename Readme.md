@@ -2,6 +2,8 @@
 
 投影片網址： [https://goo.gl/JVLhRh](https://goo.gl/JVLhRh)
 
+影片網址： [https://bit.ly/2qASbEu](https://bit.ly/2qASbEu)
+
 這個主題主要是想要藉由實際的例子引起財管相關的學生對 Python 的學習興趣。所以，這個分享裡面的例子，被做了很多的簡化，如果真的想要自己做一套分析系統，範例裡面不足的地方，使用者需要自行斟酌如何加以修改。
 
 需要注意的地方：
